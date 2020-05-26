@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            ZYSu 學習筆記
 tagline:          '生於憂患，死於安樂'
-# description:      
+description:      '生於憂患，死於安樂' 
 url:              https://ZhuYanSu.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
